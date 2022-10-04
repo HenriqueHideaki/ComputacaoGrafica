@@ -1,2 +1,2 @@
 # ComputacaoGrafica
-Repositório da Dsiciplina de Computação Gráfica - UFRN
+Repositório da Disciplina de Computação Gráfica - UFRN
